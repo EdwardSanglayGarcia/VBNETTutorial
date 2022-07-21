@@ -1,0 +1,18 @@
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\Visual Basic Tutorial.exe
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\Visual Basic Tutorial.deps.json
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\Visual Basic Tutorial.runtimeconfig.json
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\Visual Basic Tutorial.dll
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\Visual Basic Tutorial.pdb
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.vbproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.AssemblyInfo.vb
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.dll
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\refint\Visual Basic Tutorial.dll
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.pdb
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.genruntimeconfig.cache
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\ref\Visual Basic Tutorial.dll
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\OOPVBLibrary.dll
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\bin\Debug\net6.0\OOPVBLibrary.pdb
+C:\Users\Edward\Documents\Repositories\Visual Basic Tutorial\obj\Debug\net6.0\Visual Basic Tutorial.vbproj.CopyComplete
