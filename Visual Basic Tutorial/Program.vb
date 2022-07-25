@@ -31,8 +31,7 @@ Module Program
         Parent.sampleVariable = "Sample Variable with Value"
         Dim Child As New Child()
         Child.UseSampleVariable()
-
-
+        Child.SaySomething()
 
         'Using Constants
         Constants.Example1()
