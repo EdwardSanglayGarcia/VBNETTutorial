@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OOPVBLibrary\OOPVBLibrary.vbproj" />
+    <Folder Include="Topics\Module\" />
+    <Folder Include="Topics\Object Oriented Programming\Abstraction\" />
+    <Folder Include="Topics\Object Oriented Programming\Encapsulation\" />
+    <Folder Include="Topics\Object Oriented Programming\Polymorphism\" />
+    <Folder Include="Topics\Properties\" />
   </ItemGroup>
 
 </Project>

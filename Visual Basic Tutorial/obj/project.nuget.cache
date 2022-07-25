@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d57FVy8Z5JJw9sKbnw0WNSkz3BFImwRY6kgEbq5EsewSeXRwLuWPIryqOS5AP/JmRNDATiMCBMIbcjkfybkB7g==",
-  "success": false,
+  "dgSpecHash": "eqo84ybammBpZ7PJNfX1mJGARoooaXyJQvW7U3FANo15oaG7yVCo3HYFOFmndf06exGs8rk9ij+gFaNIsRFlaA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

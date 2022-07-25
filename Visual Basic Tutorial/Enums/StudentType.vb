@@ -1,4 +1,4 @@
-﻿Public Enum StudentType
+﻿Public Enum StudentType As Integer
     Freshmen
     Sophomore
     Junior

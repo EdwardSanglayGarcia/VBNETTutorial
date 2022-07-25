@@ -5,9 +5,7 @@
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Edward\\.nuget\\packages\\": {}
@@ -35,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj": {
-              "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -69,16 +63,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

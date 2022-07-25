@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Visual Basic Tutorial/1.0.0": {
-        "dependencies": {
-          "OOPVBLibrary": "1.0.0"
-        },
         "runtime": {
           "Visual Basic Tutorial.dll": {}
-        }
-      },
-      "OOPVBLibrary/1.0.0": {
-        "runtime": {
-          "OOPVBLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Visual Basic Tutorial/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "OOPVBLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
