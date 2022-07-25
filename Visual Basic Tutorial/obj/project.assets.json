@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "OOPVBLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/OOPVBLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OOPVBLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "OOPVBLibrary/1.0.0": {
-      "type": "project",
-      "path": "../OOPVBLibrary/OOPVBLibrary.vbproj",
-      "msbuildProject": "../OOPVBLibrary/OOPVBLibrary.vbproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "OOPVBLibrary >= 1.0.0"
+      "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj"
     ]
   },
   "packageFolders": {
@@ -32,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edward\\Documents\\Repositories\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
+      "projectUniqueName": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
       "projectName": "Visual Basic Tutorial",
-      "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
+      "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
       "packagesPath": "C:\\Users\\Edward\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edward\\Documents\\Repositories\\Visual Basic Tutorial\\obj\\",
+      "outputPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edward\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +36,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Edward\\Documents\\Repositories\\OOPVBLibrary\\OOPVBLibrary.vbproj": {
-              "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\OOPVBLibrary\\OOPVBLibrary.vbproj"
+            "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj": {
+              "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj"
             }
           }
         }
@@ -86,5 +69,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\OOPVBLibrary\\OOPVBLibrary.vbproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

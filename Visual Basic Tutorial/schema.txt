@@ -1,0 +1,22 @@
+SELECT SCHEMA_NAME(tab.schema_id) + '.' + tab.NAME AS 'FACT TABLE',
+    col.column_id AS 'COLUMN NO',
+    col.NAME AS  'FACT TABLE COLUMN',
+    CASE WHEN fk.object_id is not null THEN 'RELATIONSHIP WITH' ELSE '[NO RELATIONSHIP]' END AS 'RELATIONSHIP',
+    SCHEMA_NAME(pk_tab.schema_id) + '.' + pk_tab.NAME AS 'DIMENSION TABLE',
+    pk_col.NAME AS 'DIMENSION TABLE COLUMN',
+    fk.NAME AS 'CONSTRAINT REFERENCE'
+FROM SYS.TABLES tab
+    INNER JOIN SYS.COLUMNS col 
+        ON col.object_id = tab.object_id
+    LEFT OUTER JOIN SYS.FOREIGN_KEY_COLUMNS fk_cols
+        ON fk_cols.parent_object_id = tab.object_id
+        AND fk_cols.parent_column_id = col.column_id
+    LEFT OUTER JOIN SYS.FOREIGN_KEYS fk
+        ON fk.object_id = FK_COLS.CONSTRAINT_OBJECT_ID
+    LEFT OUTER JOIN SYS.TABLES pk_tab
+        ON pk_tab.object_id = fk_cols.referenced_object_id
+    LEFT OUTER JOIN SYS.COLUMNS pk_col
+        ON pk_col.column_id = fk_cols.referenced_column_id
+        AND pk_col.object_id = fk_cols.referenced_object_id
+ORDER BY SCHEMA_NAME(tab.schema_id) + '.' + tab.name,
+    col.column_id
