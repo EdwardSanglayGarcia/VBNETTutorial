@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj": {}
+    "C:\\Users\\Philscan\\Desktop\\Edward Final\\Clones\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj": {
+    "C:\\Users\\Philscan\\Desktop\\Edward Final\\Clones\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
+        "projectUniqueName": "C:\\Users\\Philscan\\Desktop\\Edward Final\\Clones\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
         "projectName": "Visual Basic Tutorial",
-        "projectPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
-        "packagesPath": "C:\\Users\\Edward\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edward\\Documents\\Repositories\\VBNETTutorial\\Visual Basic Tutorial\\obj\\",
+        "projectPath": "C:\\Users\\Philscan\\Desktop\\Edward Final\\Clones\\VBNETTutorial\\Visual Basic Tutorial\\Visual Basic Tutorial.vbproj",
+        "packagesPath": "C:\\Users\\Philscan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Philscan\\Desktop\\Edward Final\\Clones\\VBNETTutorial\\Visual Basic Tutorial\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Edward\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Philscan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

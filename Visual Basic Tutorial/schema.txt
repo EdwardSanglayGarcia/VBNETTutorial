@@ -20,3 +20,5 @@ FROM SYS.TABLES tab
         AND pk_col.object_id = fk_cols.referenced_object_id
 ORDER BY SCHEMA_NAME(tab.schema_id) + '.' + tab.name,
     col.column_id
+
+https://www.youtube.com/watch?v=Og-iGYF_PX8&ab_channel=MaryRountree
