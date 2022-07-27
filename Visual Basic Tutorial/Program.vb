@@ -13,6 +13,8 @@ Imports OOPVBLibrary
 
 'informit.com/articles/article.aspx?p=25857&seqNum=3#:~:text=Encapsulation%20is%20the%20exposure%20of,understand%20how%20it%20actually%20works.
 
+'https://www.dotnetperls.com/dictionary-vbnet
+
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World")
@@ -25,6 +27,8 @@ Module Program
         'Using from Another folder
         Dim sampleFolder As New Shape("Square")
         sampleFolder.TellMyName()
+
+
 
         'Using Inheritance
         Dim Parent As New Parent()
